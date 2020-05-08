@@ -5,10 +5,12 @@
           Applied Sciences 2020
 
 
+
+
 ________________________________________________________________________________________________________________________
 Result example
 
-![anigif](https://user-images.githubusercontent.com/47974338/81369089-783be080-912c-11ea-995e-1de3e568a573.gif)
+![anigif_50](https://user-images.githubusercontent.com/47974338/81369464-76bee800-912d-11ea-8339-b740acca1269.gif)
 
 
 
