@@ -10,7 +10,7 @@
 ________________________________________________________________________________________________________________________
 Result example
 
-![anigif_50](https://user-images.githubusercontent.com/47974338/81369464-76bee800-912d-11ea-8339-b740acca1269.gif)
+![anigif_72](https://user-images.githubusercontent.com/47974338/81369651-eaf98b80-912d-11ea-84ba-23dca1255e35.gif)
 
 
 
